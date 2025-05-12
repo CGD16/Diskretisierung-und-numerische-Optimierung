@@ -1,0 +1,15 @@
+*/__pycache__
+*.keras
+*.pb
+*.pth
+*.log
+*.aux
+*.lot
+*.bbl
+*.blg
+*.lof
+*.out
+*.gz
+*.toc
+*.pdf
+*.bcf
