@@ -13,6 +13,10 @@ class eEuler:
         self.tau = (t[1] - t[0]) / steps
         self.t_list = np.linspace(t[0], t[1], steps + 1)
 
+    def testtt(self):
+        print("testtt")
+        return 0	
+
     def call(self):
         Y = self.Y0
         Y_list = [Y]
